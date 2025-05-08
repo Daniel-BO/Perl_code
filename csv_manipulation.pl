@@ -3,6 +3,9 @@ use strict;
 use warnings;
 use Text::CSV;
 
+#updte library by terminal commnad to support csv
+#cpan Text::CSV
+
 my $input_file  = 'input.csv';
 my $output_file = 'output.csv';
 
